@@ -1,27 +1,34 @@
-# Univesp
+<div align="center">
+	<img src="https://i.imgur.com/DSwYyzL.png" title="Univesp"/></a>
+</div>
 
-<h3>Exercício 1. Cap. 3 – Ex 4a ✅<h3>
+## 📃Sobre 
 <p>
-    Ler uma temperatura em graus Celsius e apresentá-la convertida
-    em graus Fahrenheit. A fórmula de conversão é F ← C * 9 / 5 + 32,
-    sendo F a temperatura em Fahrenheit e C a temperatura em Celsius.
+Este repositório reúne os desafios resolvidos nos exercícios da disciplina Algoritmos e Programação de Computadores da UNIVESP. Aqui estão as soluções que me ajudaram a praticar e consolidar os conceitos aprendidos ao longo da matéria. 🚀
 </p>
-Exercício 2.6
-Primeiro, execute a atribuição palavras =
-['taco', 'bola', 'celeiro', 'cesta', 'peteca']
-Agora, escreva duas expressões Python que são avaliadas, respectivamente,
-como a primeira e a última palavras em palavras, na ordem do dicionário.
 
-Exercício 2. Cap. 4 – Ex 3c
-Realizar a leitura dos valores de quatro notas escolares bimestrais de
-um aluno representadas pelas variáveis N1, N2, N3 e N4.
-Calcular a média aritmética (variável MD) desse aluno e apresentar a mensagem
-“Aluno Aprovado com média” se a média obtida for maior ou igual a 5;
-caso contrário, apresentar a mensagem “Aluno Reprovado com média”. Informar
-também, após a apresentação das mensagens, o valor da média obtida pelo aluno.
+## 🐱‍💻Tecnologia
+- Python
+	
+## 🏆 Exercícios Resolvidos
+- <a href="https://github.com/Joice-Simao/Univesp/blob/main/semana1/exercicio1.py">Exercício 01</a>
 
-Exercício 3. Cap. 5 – Ex 1c
-Desenvolver os diagramas de blocos e as codificações em português estruturado
-usando laço incondicional (para) do seguinte problema: Construir um programa
-que apresente a soma dos cem primeiros números
-naturais (1 + 2 + 3 +...+ 98 + 99 + 100).
+## 🤝🏽Contribuição
+  Se você deseja contribuir para o projeto ou apenas cloná-lo e testá-lo em seu ambiente local, siga os passos abaixo:
+ - Faça um fork deste repositório e clone o fork para sua máquina local.
+ - Crie uma nova branch com o comando: git checkout -b <nome_da_branch>.
+ - Realize suas modificações e faça um commit das mudanças com: git commit -m '<mensagem_do_commit>'.
+ - Envie as alterações para a branch original com: git push origin <nome_do_projeto>/<local>.
+ - Abra uma pull request no GitHub.
+  
+## 👩🏽‍💻Autora
+
+<img style="border-radius: 50%;" src="https://i.imgur.com/n7iVrD1.png" title="Foto da autora Joice" width="100px;" alt=""/>
+ <b>Joice Simão</b>
+ 
+![feito](https://img.shields.io/badge/Feito%20com-%E2%9D%A4-red.svg?style=flat)
+
+<p>Entre em contato!</p>
+
+<a href="https://www.linkedin.com/in/joice-sim%C3%A3o-leite-520496221/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/joice-sim%C3%A3o-leite-520496221/"></a>
+<a href = "mailto:joice.simao@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
