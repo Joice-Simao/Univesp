@@ -13,7 +13,7 @@ Este repositório reúne os desafios resolvidos nos exercícios da disciplina Al
 ## 🏆 Exercícios Resolvidos
 - <a href="https://github.com/Joice-Simao/Univesp/blob/main/semana1/exercicio1.py">Exercício 01</a>
 - <a href="https://github.com/Joice-Simao/Univesp/blob/main/exercicio2.py">Exercício 02</a>
-
+- <a href="https://github.com/Joice-Simao/Univesp/blob/main/exercicio3.py">Exercício 03</a>
 
 ## 🤝🏽Contribuição
   Se você deseja contribuir para o projeto ou apenas cloná-lo e testá-lo em seu ambiente local, siga os passos abaixo:
@@ -55,7 +55,7 @@ como a primeira e a última palavras em palavras, na ordem do dicionário.
 </p>
 
 <p>
-	Exercício 2. Cap. 4 – Ex 3c
+	✅ Exercício 2. Cap. 4 – Ex 3c
 Realizar a leitura dos valores de quatro notas escolares bimestrais de
 um aluno representadas pelas variáveis N1, N2, N3 e N4.
 Calcular a média aritmética (variável MD) desse aluno e apresentar a mensagem
