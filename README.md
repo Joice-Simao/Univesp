@@ -79,33 +79,34 @@ naturais (1 + 2 + 3 +...+ 98 + 99 + 100).
 
 <b>SEMANA 2</b>
 <p>
-	Exercício 2.1<br>
+	✅ Exercício 2.1<br>
 Escreva expressões algébricas Python correspondentes aos seguintes comandos:<br>   
-	✔ A soma dos 5 primeiros inteiros positivos.<br>
-	✔ A idade média de Sara (idade 23), Mark (idade 19) e
+	- A soma dos 5 primeiros inteiros positivos.<br>
+	- A idade média de Sara (idade 23), Mark (idade 19) e
 	Fátima (idade 31).<br>
 	- O número de vezes que 73 cabe em 403.<br>
-	- O resto de quando 403 é dividido por 73.
-	2 à 10ª potência.<br>
+	- O resto de quando 403 é dividido por 73.<br>
+	- 2 à 10ª potência.<br>
 	- O valor absoluto da distância entre a altura de Sara
 	(54 polegadas) e a altura de Mark (57 polegadas).<br>
 	- O menor preço entre os seguintes preços: R$ 34,99,
 	R$ 29,95 e R$ 31,50.	
 </p>
 
+<p>
+	Exercício 2.2
+Traduza os comandos a seguir para expressões Booleanas em Python e avalie-as:<br> 
+	- A soma de 2 e 2 é menor que 4.<br>
+	- O valor de 7 // 3 é igual a 1 + 1.<br>
+	- A soma de 3 ao quadrado e 4 ao quadrado é igual a 25.<br>
+	- A soma de 2, 4 e 6 é maior que 12.<br>
+	- 1387 é divisível por 19.<br>
+	- 31 é par. (Dica: o que o resto lhe diz quando você
+	divide por 2?)<br>
+	- O preço mais baixo dentre R$ 34,99, R$ 29,95 e R$ 31,50
+	é menor que R$ 30,00.*<br>	
+</p>
 
-Exercício 2.2
-Traduza os comandos a seguir para expressões Booleanas em Python e avalie-as:
- 
-A soma de 2 e 2 é menor que 4.
-O valor de 7 // 3 é igual a 1 + 1.
-A soma de 3 ao quadrado e 4 ao quadrado é igual a 25.
-A soma de 2, 4 e 6 é maior que 12.
-1387 é divisível por 19.
-31 é par. (Dica: o que o resto lhe diz quando você
-divide por 2?)
-O preço mais baixo dentre R$ 34,99, R$ 29,95 e R$ 31,50
-é menor que R$ 30,00.*
 
 Exercício 2.3
 Escreva instruções Python que correspondem às ações a seguir e execute-as:
