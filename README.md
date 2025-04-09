@@ -20,6 +20,7 @@ Este repositório reúne os desafios resolvidos nos exercícios da disciplina Al
 <b>SEMANA 2</b>
 - <a href="https://github.com/Joice-Simao/Univesp/blob/main/semana2/exercicio5.py">Exercício 05</a>
 - <a href="https://github.com/Joice-Simao/Univesp/blob/main/semana2/exercicio6.py">Exercício 06</a>
+- <a href="https://github.com/Joice-Simao/Univesp/blob/main/semana2/exercicio7.py">Exercício 07</a>
 
 ## 🤝🏽Contribuição
   Se você deseja contribuir para o projeto ou apenas cloná-lo e testá-lo em seu ambiente local, siga os passos abaixo:
@@ -46,14 +47,14 @@ Este repositório reúne os desafios resolvidos nos exercícios da disciplina Al
 
 <b>SEMANA 1</b>
 <p>
-	✅ Exercício 1. Cap. 3 – Ex 4a<br> 
+	✅ Exercício 1<br> 
 Ler uma temperatura em graus Celsius e apresentá-la convertida
 em graus Fahrenheit. A fórmula de conversão é F ← C * 9 / 5 + 32,
 sendo F a temperatura em Fahrenheit e C a temperatura em Celsius.
 </p>
 
 <p>
-	✅ Exercício 2.6<br> 
+	✅ Exercício 2<br> 
 Primeiro, execute a atribuição palavras =
 ['taco', 'bola', 'celeiro', 'cesta', 'peteca']
 Agora, escreva duas expressões Python que são avaliadas, respectivamente,
@@ -61,7 +62,7 @@ como a primeira e a última palavras em palavras, na ordem do dicionário.
 </p>
 
 <p>
-	✅ Exercício 2. Cap. 4 – Ex 3c<br>
+	✅ Exercício 3<br>
 Realizar a leitura dos valores de quatro notas escolares bimestrais de
 um aluno representadas pelas variáveis N1, N2, N3 e N4.
 Calcular a média aritmética (variável MD) desse aluno e apresentar a mensagem
@@ -71,7 +72,7 @@ também, após a apresentação das mensagens, o valor da média obtida pelo alu
 </p>
 
 <p>
-	✅ Exercício 3. Cap. 5 – Ex 1c<br>
+	✅ Exercício 4<br>
 Desenvolver os diagramas de blocos e as codificações em português estruturado
 usando laço incondicional (para) do seguinte problema: Construir um programa
 que apresente a soma dos cem primeiros números
@@ -80,7 +81,7 @@ naturais (1 + 2 + 3 +...+ 98 + 99 + 100).
 
 <b>SEMANA 2</b>
 <p>
-	✅ Exercício 2.1<br>
+	✅ Exercício 5<br>
 Escreva expressões algébricas Python correspondentes aos seguintes comandos:<br>   
 	- A soma dos 5 primeiros inteiros positivos.<br>
 	- A idade média de Sara (idade 23), Mark (idade 19) e
@@ -95,7 +96,7 @@ Escreva expressões algébricas Python correspondentes aos seguintes comandos:<b
 </p>
 
 <p>
-	✅ Exercício 2.2<br>
+	✅ Exercício 6<br>
 Traduza os comandos a seguir para expressões Booleanas em Python e avalie-as:<br> 
 	- A soma de 2 e 2 é menor que 4.<br>
 	- O valor de 7 // 3 é igual a 1 + 1.<br>
@@ -105,15 +106,15 @@ Traduza os comandos a seguir para expressões Booleanas em Python e avalie-as:<b
 	- 31 é par. (Dica: o que o resto lhe diz quando você divide por 2?)<br>
 	- O preço mais baixo dentre R$ 34,99, R$ 29,95 e R$ 31,50 é menor que R$ 30,00.*<br>	
 </p>
-
-Exercício 2.3
-Escreva instruções Python que correspondem às ações a seguir e execute-as:
-
+	
+<p>
+	✅ Exercício 7<br>
+Escreva instruções Python que correspondem às ações a seguir e execute-as: 
+	Atribua o valor inteiro 3 à variável a.
+	Atribua 4 à variável b.
+	Atribua à variável c o valor da expressão a * a + b * b.
  
-Atribua o valor inteiro 3 à variável a.
-Atribua 4 à variável b.
-Atribua à variável c o valor da expressão a * a + b * b.
-
+</p>
 
 Exercício 2.4
 Comece executando as instruções de atribuição:
