@@ -95,19 +95,16 @@ Escreva expressões algébricas Python correspondentes aos seguintes comandos:<b
 </p>
 
 <p>
-	Exercício 2.2
+	✅ Exercício 2.2<br>
 Traduza os comandos a seguir para expressões Booleanas em Python e avalie-as:<br> 
 	- A soma de 2 e 2 é menor que 4.<br>
 	- O valor de 7 // 3 é igual a 1 + 1.<br>
 	- A soma de 3 ao quadrado e 4 ao quadrado é igual a 25.<br>
 	- A soma de 2, 4 e 6 é maior que 12.<br>
 	- 1387 é divisível por 19.<br>
-	- 31 é par. (Dica: o que o resto lhe diz quando você
-	divide por 2?)<br>
-	- O preço mais baixo dentre R$ 34,99, R$ 29,95 e R$ 31,50
-	é menor que R$ 30,00.*<br>	
+	- 31 é par. (Dica: o que o resto lhe diz quando você divide por 2?)<br>
+	- O preço mais baixo dentre R$ 34,99, R$ 29,95 e R$ 31,50 é menor que R$ 30,00.*<br>	
 </p>
-
 
 Exercício 2.3
 Escreva instruções Python que correspondem às ações a seguir e execute-as:
