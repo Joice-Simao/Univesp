@@ -19,6 +19,7 @@ Este repositório reúne os desafios resolvidos nos exercícios da disciplina Al
 
 <b>SEMANA 2</b>
 - <a href="https://github.com/Joice-Simao/Univesp/blob/main/semana2/exercicio5.py">Exercício 05</a>
+- <a href="https://github.com/Joice-Simao/Univesp/blob/main/semana2/exercicio6.py">Exercício 06</a>
 
 ## 🤝🏽Contribuição
   Se você deseja contribuir para o projeto ou apenas cloná-lo e testá-lo em seu ambiente local, siga os passos abaixo:
