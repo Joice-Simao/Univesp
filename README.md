@@ -21,6 +21,7 @@ Este repositório reúne os desafios resolvidos nos exercícios da disciplina Al
 - <a href="https://github.com/Joice-Simao/Univesp/blob/main/semana2/exercicio5.py">Exercício 05</a>
 - <a href="https://github.com/Joice-Simao/Univesp/blob/main/semana2/exercicio6.py">Exercício 06</a>
 - <a href="https://github.com/Joice-Simao/Univesp/blob/main/semana2/exercicio7.py">Exercício 07</a>
+- <a href="https://github.com/Joice-Simao/Univesp/blob/main/semana2/exercicio8.py">Exercício 08</a>
 
 ## 🤝🏽Contribuição
   Se você deseja contribuir para o projeto ou apenas cloná-lo e testá-lo em seu ambiente local, siga os passos abaixo:
@@ -116,22 +117,21 @@ Escreva instruções Python que correspondem às ações a seguir e execute-as:
  
 </p>
 
-Exercício 2.4
-Comece executando as instruções de atribuição:
-
->>> s1 = 'ant'
->>> s2 = 'bat'
->>> s3 = 'cod'
+<p>
+	✅ Exercício 8<br>
+Comece executando as instruções de atribuição:<br>
+>>> s1 = 'ant'<br>
+>>> s2 = 'bat'<br>
+>>> s3 = 'cod'<br>
             
-Escreva expressões Python usando s1, s2 e s3 e os
-operadores + e * a fim de avaliar para:  
+Escreva expressões Python usando s1, s2 e s3 e os operadores + e * a fim de avaliar para:<br>  
+'ant bat cod'<br>
+'ant ant ant ant ant ant ant ant ant ant'<br>
+'ant bat bat cod cod cod'<br>
+'ant bat ant bat ant bat ant bat ant bat ant bat ant bat'<br>
+'batbatcod batbatcod batbatcod batbatcod batbatcod'<br>	
+</p>
 
-  
-'ant bat cod'
-ant ant ant ant ant ant ant ant ant ant'
-'ant bat bat cod cod cod'
-'ant bat ant bat ant bat ant bat ant bat ant bat ant bat'
-'batbatcod batbatcod batbatcod batbatcod batbatcod'
 
 
 Exercício 2.5
